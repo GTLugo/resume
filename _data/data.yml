@@ -43,6 +43,9 @@ sidebar:
     - item: Game Engine Architecture
       link:
 
+    - item: Game Design
+      link:
+
     - item: Anime & Manga
       link:
 
@@ -56,9 +59,14 @@ career-profile:
   title: Career Profile
   summary: |
     I am a software engineer specializing in systems programming and API development. 
+    
     My favorite thing about API development is creating easy, intuitive designs for developers to use,
     such as in my Rust crate "Witer." It takes the older, error-prone Win32 API and redesigns it to be
     safer and more idiomatic for Rust.
+
+    Additionally, I enjoy game architecture and design. Over the years, I've written a number of game engine
+    prototypes in C++ and Rust. Of particular interest to me are the rendering and ECS components of game
+    engine design.
     
 education:
   title: Education
