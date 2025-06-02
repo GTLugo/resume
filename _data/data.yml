@@ -55,10 +55,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a software engineer specializing in systems programming and API development.
-    I interned at Amazon as a Software Engineering for 3 months where I worked in Python
-    with the Alexa Devices teams. My favorite thing about software development is designing
-    APIs that are easy for developers to use.
+    I am a software engineer specializing in systems programming and API development. 
+    My favorite thing about software development is designing APIs that are easy for 
+    developers to use.
+    
 education:
   title: Education
   info:
