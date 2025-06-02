@@ -56,8 +56,9 @@ career-profile:
   title: Career Profile
   summary: |
     I am a software engineer specializing in systems programming and API development. 
-    My favorite thing about software development is designing APIs that are easy for 
-    developers to use.
+    My favorite thing about API development is creating easy, intuitive designs for developers to use,
+    such as in my Rust crate "Witer." It takes the older, error-prone Win32 API and redesigns it to be
+    safer and more idiomatic for Rust.
     
 education:
   title: Education
